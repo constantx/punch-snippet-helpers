@@ -1,4 +1,4 @@
-# Punch Third Party Snippets Helper
+# [Punch Third Party Snippets Helper](https://npmjs.org/package/punch-helper-google-analytics)
 
 This is different from the google analytics snippet from the punch default third party snippet helper in that it use the new analytics.js rather than the ga.js.
 
