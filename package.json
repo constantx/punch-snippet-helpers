@@ -1,6 +1,6 @@
 {
   "name": "punch-helper-google-analytics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "third party snippet to add the new google analytics.js snippet to your punch project",
   "main": "lib/punch-helper-google-analytics",
   "scripts": {
