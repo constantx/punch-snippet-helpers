@@ -1,5 +1,8 @@
-# [Punch Third Party Snippets Helper](https://npmjs.org/package/punch-helper-google-analytics)
+# [Punch Snippets Helper](https://npmjs.org/package/punch-snippet-helpers)
 
+
+
+## google analytics
 This is different from the google analytics snippet from the punch default third party snippet helper in that it use the new analytics.js rather than the ga.js.
 
 * Open your Punch project's configurations (`config.json`) and add the following:
@@ -7,7 +10,7 @@ This is different from the google analytics snippet from the punch default third
 		"plugins": {
 
 			"helpers": {
-				"punch-helper-google-analytics": "punch-helper-google-analytics"
+				"punch-snippet-helpers": "punch-snippet-helpers"
 			}
 
 		}

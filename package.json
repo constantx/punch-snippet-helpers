@@ -1,15 +1,16 @@
 {
-  "name": "punch-helper-google-analytics",
+  "name": "punch-snippet-helpers",
   "version": "0.0.2",
   "description": "third party snippet to add the new google analytics.js snippet to your punch project",
-  "main": "lib/punch-helper-google-analytics",
+  "main": "lib/punch-snippet-helpers",
   "scripts": {
     "test": "./node_modules/.bin/nodeunit test"
   },
   "keywords": [
     "punch",
-    "google",
-    "analytic"
+    "helpers",
+    "snippets",
+    "google analytics"
   ],
   "author": "Truong Nguyen",
   "license": "MIT",
