@@ -2,6 +2,10 @@
   "name": "punch-snippet-helpers",
   "version": "0.0.2",
   "description": "third party snippet to add the new google analytics.js snippet to your punch project",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:constantx/punch-snippet-helpers.git"
+  },
   "main": "lib/punch-snippet-helpers",
   "scripts": {
     "test": "./node_modules/.bin/nodeunit test"
@@ -18,7 +22,7 @@
     "grunt": "~0.4.1",
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-uglify": "~0.2.4",
-    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-jslint": "~1.1.1",
     "grunt-contrib-watch": "~0.5.3",
     "nodeunit": "~0.8.1",
     "grunt-contrib-nodeunit": "~0.2.1"
