@@ -1,4 +1,5 @@
-# deprecated, will be merged with [constantx/punch-thirdparty-snippets-helper](https://github.com/constantx/punch-thirdparty-snippets-helper)
+\* deprecated, will be merged with [constantx/punch-thirdparty-snippets-helper](https://github.com/constantx/punch-thirdparty-snippets-helper)
+ 
 
 ***
 
