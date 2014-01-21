@@ -1,7 +1,8 @@
 # deprecated, will be merged with [constantx/punch-thirdparty-snippets-helper](https://github.com/constantx/punch-thirdparty-snippets-helper)
 
-# [Punch Snippets Helper](https://npmjs.org/package/punch-snippet-helpers)
+***
 
+## [Punch Snippets Helper](https://npmjs.org/package/punch-snippet-helpers)
 
 
 ## google analytics
